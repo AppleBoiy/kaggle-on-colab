@@ -69,7 +69,7 @@ To work with the downloaded dataset, you may need to unzip it. Use the following
 
 You can now access and analyze the dataset in your Colab notebook just like any other data file. Use popular Python libraries like Pandas, Matplotlib, and NumPy for data manipulation and visualization.
 
-For more detailed instructions and examples, refer to the [`Kaggle_on_colab.ipynb`](./Kaggle_on_colab.ipynb) file inside this repository.
+For more detailed instructions and examples, refer to the [`Kaggle_on_colab.ipynb`](./kaggle_on_colab.ipynb) file inside this repository.
 
 That's it! You've successfully accessed and used Kaggle datasets in Google Colab.
 
