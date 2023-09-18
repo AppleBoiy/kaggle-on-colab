@@ -1,7 +1,4 @@
 # Using Kaggle Datasets in Google Colab
-
-If you're a data scientist looking to leverage Kaggle datasets within Google Colab, you're in the right place. Google Colab, a cloud-based Jupyter notebook service, is a powerful tool for data analysis and machine learning. In this tutorial, we'll guide you through the step-by-step process of accessing and utilizing Kaggle datasets in Google Colab.
-
 ## Prerequisites
 
 Before we get started, ensure you have the following prerequisites in place:
