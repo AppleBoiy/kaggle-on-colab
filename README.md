@@ -1,4 +1,9 @@
 # Using Kaggle Datasets in Google Colab
+Disclaimer: This repository and tutorial are intended for study purposes only. The information provided here is for educational and instructional purposes. Please respect Kaggle's terms of service and any dataset-specific licensing agreements when using data from Kaggle.
+
+If you find this tutorial helpful, we would like to give credit to the original source that inspired this guide: [Saturn Cloud's Blog - How to Use Kaggle Datasets in Google Colab.](https://saturncloud.io/blog/how-to-use-kaggle-datasets-in-google-colab/)
+
+
 ## Prerequisites
 
 Before we get started, ensure you have the following prerequisites in place:
